@@ -46,7 +46,7 @@ __This guide assumes that you already have an account which has Super Representa
 
 * Go to https://github.com/vision-consensus/vision-sr-template
 * Fork the repository  
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/fork-repo.png)
 
 After forking the repository you will be navigated to your own `visionsr-template` version of the repository where you can make changes
 
@@ -55,16 +55,16 @@ After forking the repository you will be navigated to your own `visionsr-templat
 The template can now be modified by editing files on Github.
 
 * Click the file you want to edit  
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/github-open-file.png)
 * Open edit modus
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/github-edit-file.png)
 * Add some information to the file
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/edit-team-intro.png)
 
 Files are written in markdown format. An excellent intro can be found at https://guides.github.com/features/mastering-markdown/
 
 * Update the logo.png and banner.png  
-![]()  
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/github-upload-files.png) 
 Then click on "choose your files" and make sure the logo or banner you want to upload is named `logo.png` or `banner.png` to overwrite the placeholder images.
 
 After you filled in the template it can now be published on https://visionscan.org
@@ -72,16 +72,14 @@ After you filled in the template it can now be published on https://visionscan.o
 ## Step 3: Publish to Tronscan
 
 * Navigate to https://visionscan.org
-* Login to your account. In this example it shows using the private key, but you may use any login method.  
-![]()
+* Login to your account. In this example it shows using the plugin, but you may use any login method.
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/login-with-plugin.png)
 * Open account and make sure the "Representative" label is visible  
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/open-account.png)
 * Scroll to the bottom and click "Set Github Link"
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/set-github-link.png)
 * Input your Github username and then press "Link Github"  
-![]()
-* View your new Page!  
-![]()
+![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/input-username.png)
 
 ## Translations
 
