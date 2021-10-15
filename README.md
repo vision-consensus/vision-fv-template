@@ -19,9 +19,9 @@
 
 ## Intro
 
-Tronscan provides a way for First Validator to publish their information right where the voters are, on Tronscan!
+Visionscan provides a way for First Validator to publish their information right where the voters are, on Visionscan!
 
-First Validator can use this template to build a static page which will be shown on Tronscan. The link will be placed in the voting overview page right next to the name.
+First Validator can use this template to build a static page which will be shown on Visionscan. The link will be placed in the voting overview page right next to the name.
 
 By editing files in the repository on Github the First Validator can manage their own content.
 
@@ -69,7 +69,7 @@ Then click on "choose your files" and make sure the logo or banner you want to u
 
 After you filled in the template it can now be published on https://visionscan.org
 
-## Step 3: Publish to Tronscan
+## Step 3: Publish to Visionscan
 
 * Navigate to https://visionscan.org
 * Login to your account. In this example it shows using the plugin, but you may use any login method.
@@ -90,4 +90,4 @@ Checkout the [Pages](/pages) directory for the translation readme
 * __I've modified a file but the changes aren't visible on visionscan.org?__  
   Contents from the repository are served using the Github CDN which uses aggressive caching. It may take a few minutes before the changes are reflected on visionscan.org.
 * __Why are HTML elements visible on Github but not on visionscan.org?__  
-  Tronscan.org will sanitize all HTML tags for security reasons, only standard markdown tags are allowed
+  Visionscan.org will sanitize all HTML tags for security reasons, only standard markdown tags are allowed
