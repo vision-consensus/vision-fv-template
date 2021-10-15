@@ -2,12 +2,12 @@
   <br>
   <img width="40%" src="https://github.com/vision-consensus/vision-material-repo/raw/master/images/vision-banner.png">
   <br>
-  Visionscan Super Representative Template
+  Visionscan First Validator Template
   <br>
 </h1>
 
 <h4 align="center">
-  Template for Super Representatives to publish on <a href="https://visionscan.org">Visionscan.org</a>
+  Template for First Validator to publish on <a href="https://visionscan.org">Visionscan.org</a>
 </h4>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## Intro
 
-Tronscan provides a way for Super Representatives to publish their information right where the voters are, on Tronscan!
+Tronscan provides a way for First Validator to publish their information right where the voters are, on Tronscan!
 
-Super Representatives can use this template to build a static page which will be shown on Tronscan. The link will be placed in the voting overview page right next to the name.
+First Validator can use this template to build a static page which will be shown on Tronscan. The link will be placed in the voting overview page right next to the name.
 
-By editing files in the repository on Github the Super Representative can manage their own content.
+By editing files in the repository on Github the First Validator can manage their own content.
 
 
 ## Example
@@ -32,7 +32,7 @@ The example shows which files are presented where. Whenever the files on Github 
 
 ![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/example-page.png)
 
-__Example Super Representative Pages__
+__Example First Validator Pages__
 
 * [CryptoGuyInZA](https://www.visionscan.org/#/representative/VMKWT86BYGSgtyeeYWcmuajzjtJhKGVBuF)
 * [Skypeople](https://www.visionscan.org/#/representative/VMKWT86BYGSgtyeeYWcmuajzjtJhKGVBuF)
@@ -40,15 +40,15 @@ __Example Super Representative Pages__
 
 ## How to use
 
-__This guide assumes that you already have an account which has Super Representative (candidate) status__
+__This guide assumes that you already have an account which has First Validator (candidate) status__
 
 ### Step 1: Copy/Fork the template on Github
 
-* Go to https://github.com/vision-consensus/vision-sr-template
+* Go to https://github.com/vision-consensus/vision-fv-template
 * Fork the repository  
 ![](https://github.com/vision-consensus/vision-material-repo/raw/master/images/fork-repo.png)
 
-After forking the repository you will be navigated to your own `visionsr-template` version of the repository where you can make changes
+After forking the repository you will be navigated to your own `visionfv-template` version of the repository where you can make changes
 
 ## Step 2: Fill in the template
 
